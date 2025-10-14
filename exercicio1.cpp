@@ -1,5 +1,4 @@
 // g++ -fopenmp nome.cpp -o nome.exe
-
 // ./nome
 
 /* Exercício 1 — “Hello World” Paralelo
